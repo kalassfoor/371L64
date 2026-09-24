@@ -8,6 +8,7 @@ System.out.print(" hello, khaled,");
 System.out.print(" hello, khaled1,");
 System.out.print(" hello, khaled1,");
 System.out.print("khaled");
+		System.out.print("khaled");
 	}
 
 }
